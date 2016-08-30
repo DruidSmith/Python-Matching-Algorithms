@@ -1,0 +1,9 @@
+test company file for pandas read, test company,1
+general electric, GenerAR Electric,1
+The General Electric Co., GEnERaal Electric,1
+Company A, Different Company B, 0
+The cocoa bean company, cocoa bean inc, 0
+Somecompany L.L.C., SomeCompany L L C, 1
+SomeCompany LLP, SomeCompany LLP., 1
+ThisCompany LLC, ThatCompany Inc, 0
+WidgetCo, WidgetCo L.L.C., 1
